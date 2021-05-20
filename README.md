@@ -1,7 +1,7 @@
 # SAMP-Dep 
 Hackel lab, University of Minnesota.
 
-Contact information: dejon082@umn.edu
+Contact information: hackel@umn.edu
 
 These Python3 codes analyze deep sequencing read counts to infer antimicrobial peptide activity via quantifying depletion.
 
